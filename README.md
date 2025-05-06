@@ -2,4 +2,4 @@
 
 1. Buat akun github
 2. Buat repositori
-3. Setup SSH key
+3. Setup SSH key 
